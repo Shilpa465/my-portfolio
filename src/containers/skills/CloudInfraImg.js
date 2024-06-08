@@ -1423,7 +1423,7 @@ export default function CloudInfraImg(props){
         d="M180.86 308.13A46.9 46.9 0 0 0 161.2 295l-17.56 7.49a40.14 40.14 0 0 0-5.38-9.36l-3.28-4 2.11-11.47s12.64-8.66 14.27-12.41l.06-.12c2.54 3.93 13.56 20.94 15.63 22.59 2.34 1.88 9.36 2.11 12.4-.7s4.45-4.68 3.75-8.89c0 0-4.68-10.07-7.26-14.52s-8.19-20.36-11-25.28c-2-3.52-2.83-6-4.25-7.66a27.77 27.77 0 0 0-3.47-4.74c-2.81-3-10.54-3.75-12.18-4.45s-1.87-.94-11.23-3.74-19.9-4.45-27.39 1.4c0 0-10.06 11.94-14 31.6s-4.22 39.56-4.68 43.07-4.45 20.6-5.62 30.43 9.09 19.7 15.41 22.76 33.47 3.51 49.39 0 41.2-19.43 41.2-19.43.93-9.84-7.26-19.44Z"
         className="animable"
         style={{
-          fill: theme.accentColor,
+          fill: theme.accentBright,
           stroke: "#263238",
           strokeLinecap: "round",
           strokeLinejoin: "round",
@@ -1567,7 +1567,7 @@ export default function CloudInfraImg(props){
         d="m217 422.52-1.29.26s-7.57-10.24-13.35-13.8a12.59 12.59 0 0 0-6.68-2.22c-1.79 3.56-7.57 10.68-.45 13.35s7.57 4 11.13 6.23 7.57 6.24 10.69 6.24a10.29 10.29 0 0 0 5.79-2.23s-3.57-4.9-4.9-6.23a7.44 7.44 0 0 1-.94-1.6Z"
         className="animable"
         style={{
-          fill: theme.accentColor,
+          fill: theme.accentBright,
           stroke: "#263238",
           strokeLinecap: "round",
           strokeLinejoin: "round",
@@ -1678,7 +1678,7 @@ export default function CloudInfraImg(props){
         d="M182.78 424.32c-6.67-6.32-7.67-10.32-7.67-10.32a2.17 2.17 0 0 1-.52-.74c-.45.47-1.81 1.36-5.14.08-2.89-1.11-5.63-3-8.52-4.27-.69 1.23-1.36 2-2.82 4.93-3 6-4 7.34 2.67 9.34s14 8 15 8.66 11 1.67 13.33.67.34-2.02-6.33-8.35Z"
         className="animable"
         style={{
-          fill: theme.accentColor,
+          fill: theme.accentBright,
           stroke: "#263238",
           strokeLinecap: "round",
           strokeLinejoin: "round",

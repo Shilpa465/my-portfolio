@@ -38,7 +38,7 @@ export default function DataScienceImg(props) {
       <path
         d="M286,77.09967a94.01123,94.01123,0,0,0-44.968,176.56414L286,171.09967Z"
         transform="translate(-40 -34.59967)"
-        fill={theme.accentColor}
+        fill={theme.accentBright}
       />
       <path
         d="M352.468,237.56768,286,171.09967l-44.968,82.56414a94.04908,94.04908,0,0,0,111.436-16.09613Z"
@@ -274,7 +274,7 @@ export default function DataScienceImg(props) {
         style={{
           fillRule: "evenodd",
           clipRule: "evenodd",
-          fill: theme.accentColor,
+          fill: theme.accentBright,
         }}
       />
       <path
@@ -306,7 +306,7 @@ export default function DataScienceImg(props) {
         style={{
           fillRule: "evenodd",
           clipRule: "evenodd",
-          fill: theme.accentColor,
+          fill: theme.accentBright,
         }}
       />
       <path
@@ -322,7 +322,7 @@ export default function DataScienceImg(props) {
         style={{
           fillRule: "evenodd",
           clipRule: "evenodd",
-          fill: theme.accentColor,
+          fill: "white",
         }}
       />
       <path
@@ -330,7 +330,7 @@ export default function DataScienceImg(props) {
         style={{
           fillRule: "evenodd",
           clipRule: "evenodd",
-          fill: theme.accentColor,
+          fill: "white",
         }}
       />
       <path
@@ -362,7 +362,7 @@ export default function DataScienceImg(props) {
         style={{
           fillRule: "evenodd",
           clipRule: "evenodd",
-          fill: theme.accentColor,
+          fill: theme.accentBright,
         }}
       />
       <path
@@ -506,7 +506,7 @@ export default function DataScienceImg(props) {
         style={{
           fillRule: "evenodd",
           clipRule: "evenodd",
-          fill: theme.accentColor,
+          fill: theme.accentBright,
         }}
       />
       <path
@@ -522,7 +522,7 @@ export default function DataScienceImg(props) {
         style={{
           fillRule: "evenodd",
           clipRule: "evenodd",
-          fill: theme.accentColor,
+          fill: theme.accentBright,
         }}
       />
       <path

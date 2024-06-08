@@ -124,7 +124,7 @@ function DegreeCard(props) {
                   marginRight: "23px",
                   textDecoration: "none",
                   float: "right",
-                  backgroundColor: theme.accentColor,
+                  backgroundColor: theme.accentBright,
                 }}
               >
                 Visit Website
