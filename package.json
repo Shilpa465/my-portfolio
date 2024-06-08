@@ -2,11 +2,11 @@
   "private": true,
   "name": "opportfolio",
   "version": "1.2.0",
-  "homepage": "https://Shilpa465.github.io/MyPortfolio",
+  "homepage": "http://Shilpa465.github.io/my-portfolio",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject",
     "start": "react-scripts start",
     "test": "react-scripts test"
@@ -31,10 +31,12 @@
     "fsevents": "^2.3.2"
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "husky": "^4.3.8",
     "lint-staged": "^10.5.4",
     "prettier": "2.2.1",
-    "prettier-package-json": "^2.2.0"
+    "prettier-package-json": "^2.2.0",
+    "s": "^1.0.0"
   },
   "browserslist": {
     "production": [
